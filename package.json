@@ -1,0 +1,27 @@
+{
+  "name": "node-multicore",
+  "version": "1.0.0",
+  "description": "Test case of multicore node server from https://dzone.com/articles/multicore-programming-in-nodejs",
+  "main": "cluster.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SirRagnar/node-multicore.git"
+  },
+  "keywords": [
+    "node",
+    "mulicore",
+    "express"
+  ],
+  "author": "Carlos Castillo @carloscasalar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SirRagnar/node-multicore/issues"
+  },
+  "homepage": "https://github.com/SirRagnar/node-multicore",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
